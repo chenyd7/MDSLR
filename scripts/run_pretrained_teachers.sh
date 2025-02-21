@@ -1,0 +1,1 @@
+python train_teacher.py --model ResNet50
