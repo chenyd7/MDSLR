@@ -17,11 +17,12 @@ sh scripts/run_cifar.sh
 
 
 ## Bibtex
-@inproceedings{
-chen2025mediumdifficulty,
-title={Medium-Difficulty Samples Constitute Smoothed Decision Boundary for Knowledge Distillation on Pruned Datasets},
-author={Yudong Chen and Xuwei Xu and Frank de Hoog and Jiajun Liu and Sen Wang},
-booktitle={The Thirteenth International Conference on Learning Representations},
-year={2025},
-url={https://openreview.net/forum?id=Rz4UkJziFe}
+@inproceedings{  
+chen2025mediumdifficulty,  
+title={Medium-Difficulty Samples Constitute Smoothed Decision Boundary for Knowledge Distillation on Pruned Datasets},  
+author={Yudong Chen and Xuwei Xu and Frank de Hoog and Jiajun Liu and Sen Wang},  
+booktitle={The Thirteenth International Conference on Learning Representations},  
+year={2025}  
 }
+
+
