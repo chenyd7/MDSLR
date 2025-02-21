@@ -13,10 +13,10 @@ You need to manually download [ImageNet](https://www.image-net.org/download.php)
 sh scripts/run_pretrained_teachers.sh
 
 ## Generate random index
-generate_random_index.sh
+sh scripts/generate_random_index.sh
 
 ## Generate Medium index
-generate_medium_index.sh
+sh scripts/generate_medium_index.sh
 
 ## Run on CIFAR-100
 sh scripts/run_cifar.sh
